@@ -7,9 +7,9 @@
   
   html,
   body {
-    height: 85%;
+    height: 100%;
     /* for touch screen */
-    touch-action: auto; 
+    touch-action: none; 
   }
   
   body {
